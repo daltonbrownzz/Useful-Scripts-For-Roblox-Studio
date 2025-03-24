@@ -1,3 +1,5 @@
+-- A simple Anti-Cheat system that could be used for any application
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
